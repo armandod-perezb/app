@@ -1,0 +1,39 @@
+Informe del grupo
+
+Integrantes: Armando Pérez, Gabriel Padilla & Nicely Meza
+
+1. Pasos realizados
+
+- Creamos el repositorio con el nombre "app" en Github. se inicializó con README.md y gitignore.
+- Se invitó a los demás colaboradores del grupo.
+- Se configuró el proyecto creando el main.py y el task_model.py. Luego, se le hizo commit y push. Se crearon ramas individuales para cada estudiante.
+- Cada uno implementó funcionalidades у resolvió conflictos. Todo esto a través de una rama grupal en la cual se fusionaron las demás ramas.
+- Luego, se fusionó la rama grupo con el main. 
+- Por último, se eliminaron las ramas obsoletas.
+
+2. Comandos Git:
+
+- git clone <URL>: Clonar el repositorio 
+- git checkout -b estudiantes: Crear rama. 
+- git add <archivo>: añadir cambios. 
+- git commit -m "mensaje": Hacer commit. 
+- git push origin estudiante1: Empujar rama. 
+- git merge estudiantes: Fusionar rama con conflicto.
+- git push origin --delete estudiante1: Eliminar rama.
+
+3. Conflictos:
+
+- Conflicto en task-model.py entre is_completed/is_done y mark_as_complete/set_done.
+- Solución: Combinamos métodos, manteniendo is_completed como atributo Principal.
+
+4. Contribuciones:
+
+- Estudiante 1: Añadió mark_as_complete y actualizó main.py.
+- Estudiante 1: Añadió delete task y actualizo' README.md.
+- Estudiante 3: Simuló conflicto con set_done/remove_task y lo resolvió.
+
+5. Reflexiones
+
+- Si no se comunica de antemano en qué parte del proyecto estamos trabajando, podemos ocasionar un conflicto con alguien del equipo.
+- Aprendimos a crear ramas y coordinarlas
+- Se agiliza mucho el desarrollo colaborativo.
