@@ -34,6 +34,9 @@ Integrantes: Armando Pérez, Gabriel Padilla & Nicely Meza
 
 5. Reflexiones
 
-- Si no se comunica de antemano en qué parte del proyecto estamos trabajando, podemos ocasionar un conflicto con alguien del equipo.
-- Aprendimos a crear ramas y coordinarlas
-- Se agiliza mucho el desarrollo colaborativo.
+- Si no se comunica de antemano en que parte del proyecto estamos trabajando, podemos ocasionar un conflicto con alguien del equipo.
+- Aprendimos a crear ramas y coordinarlas se agiliza mucho el desarrollo colaborativo. 
+- Coordinamos el trabajo en equipo comunicando la parte del proyecto sobre la que trabajaremos.
+- Es importante usar pull Requests para asegurarse que no hayan conflictos y se dañe lo ya hecho.
+- Aprendimos igualmente que los conflictos no son errores de Git sino que son señales que necesitan ana decisión del equipo y es importante entender qué cambio es conveniente para proyecto.
+- El flujo de trabajo podría mejorarse con herramientas como CI/CD en la verificacion automática del código cada vez que se hace un push o un pull detectando errores con anticipación antes de fusionar los cambios, lo que en consecuencia haría el trabajo mucho más rápido.
